@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Anonymize Log 
-Plugin URI: https://github.com/fenuz/yourls-anonymize-log
-Description: This plugin removes the IP and User Agent from the log table.
+Plugin URI: http://www.kennisnet.nl 
+Description: This plugin prevents logging the IP and User Agent
 Version: 1.0
-Author: Frank Matheron
+Author: Frank Matheron <frankmatheron@gmail.com>
 Author URI: https://github.com/fenuz
 */
 

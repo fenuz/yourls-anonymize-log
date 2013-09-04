@@ -1,0 +1,21 @@
+{
+    "name": "kennisnet/yourls-anonymize-log",
+    "type": "yourls-plugin",
+    "description": "yourls plugin that prevents logging IP",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Frank Matheron",
+            "email": "frankmatheron@gmail.com"
+        }
+    ],
+    "require": {
+        "kennisnet/yourls-plugin-installer": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/fenuz/yourls-plugin-installer.git"
+        }
+    ]
+}
